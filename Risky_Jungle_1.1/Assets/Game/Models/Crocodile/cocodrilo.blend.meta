@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 4f533602f468da34ca3a1068f8350fa5
+timeCreated: 1471216495
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: antebrazo_l
+    100002: antebrazo_r
+    100004: arm_coco
+    100006: base
+    100008: brazo_l
+    100010: brazo_r
+    100012: cabeza
+    100014: canilla_l
+    100016: canilla_r
+    100018: cd
+    100020: cintura
+    100022: //RootNode
+    100024: cocodrilo
+    100026: codo_l
+    100028: codo_r
+    100030: cola1
+    100032: cola1_001
+    100034: cola1_002
+    100036: cola1_003
+    100038: cola1_004
+    100040: controlMano_l
+    100042: controlMano_r
+    100044: controlPie_l
+    100046: controlPie_r
+    100048: cuello
+    100050: dientes_coco
+    100052: espalda1
+    100054: espalda2
+    100056: espalda3
+    100058: mandibulaInferior
+    100060: mandibulaSuperior1
+    100062: mandibulaSuperior2
+    100064: mano_l
+    100066: mano_r
+    100068: muslo2_l
+    100070: muslo2_r
+    100072: pie_l
+    100074: pie_r
+    100076: rodilla_l
+    100078: rodilla_r
+    100080: talonMano_l
+    100082: talonMano_r
+    100084: talonpie_l
+    100086: talonpie_r
+    400000: antebrazo_l
+    400002: antebrazo_r
+    400004: arm_coco
+    400006: base
+    400008: brazo_l
+    400010: brazo_r
+    400012: cabeza
+    400014: canilla_l
+    400016: canilla_r
+    400018: cd
+    400020: cintura
+    400022: //RootNode
+    400024: cocodrilo
+    400026: codo_l
+    400028: codo_r
+    400030: cola1
+    400032: cola1_001
+    400034: cola1_002
+    400036: cola1_003
+    400038: cola1_004
+    400040: controlMano_l
+    400042: controlMano_r
+    400044: controlPie_l
+    400046: controlPie_r
+    400048: cuello
+    400050: dientes_coco
+    400052: espalda1
+    400054: espalda2
+    400056: espalda3
+    400058: mandibulaInferior
+    400060: mandibulaSuperior1
+    400062: mandibulaSuperior2
+    400064: mano_l
+    400066: mano_r
+    400068: muslo2_l
+    400070: muslo2_r
+    400072: pie_l
+    400074: pie_r
+    400076: rodilla_l
+    400078: rodilla_r
+    400080: talonMano_l
+    400082: talonMano_r
+    400084: talonpie_l
+    400086: talonpie_r
+    4300000: dientes_coco
+    4300002: cocodrilo
+    7400000: Default Take
+    7400002: ataque
+    7400004: idle
+    7400006: muerte
+    7400008: reset
+    9500000: //RootNode
+    13700000: cocodrilo
+    13700002: dientes_coco
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 1a7b1879f8f11884687481ee40fb59b0
+timeCreated: 1471215309
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: antebrazo_l
+    100002: antebrazo_r
+    100004: arm_oso
+    100006: base
+    100008: brazo_l
+    100010: brazo_r
+    100012: cabeza
+    100014: cadera
+    100016: canilla_l
+    100018: canilla_r
+    100020: cintura
+    100022: codo_l
+    100024: codo_r
+    100026: cola1
+    100028: controlMano_l
+    100030: controlMano_r
+    100032: controlPie_l
+    100034: controlPie_r
+    100036: cuello
+    100038: espalda1
+    100040: espalda2
+    100042: espalda3
+    100044: garras_y_dientes_oso
+    100046: mandibulaInferior
+    100048: mandibulaSuperior1
+    100050: mandibulaSuperior2
+    100052: mano_l
+    100054: mano_r
+    100056: muslo1_l
+    100058: muslo1_r
+    100060: muslo2_l
+    100062: muslo2_r
+    100064: oreja1_l
+    100066: oreja1_r
+    100068: oreja_l
+    100070: oreja_r
+    100072: //RootNode
+    100074: oso
+    100076: pie_l
+    100078: pie_r
+    100080: rodilla_l
+    100082: rodilla_r
+    100084: talonMano_l
+    100086: talonMano_r
+    100088: talonpie_l
+    100090: talonpie_r
+    400000: antebrazo_l
+    400002: antebrazo_r
+    400004: arm_oso
+    400006: base
+    400008: brazo_l
+    400010: brazo_r
+    400012: cabeza
+    400014: cadera
+    400016: canilla_l
+    400018: canilla_r
+    400020: cintura
+    400022: codo_l
+    400024: codo_r
+    400026: cola1
+    400028: controlMano_l
+    400030: controlMano_r
+    400032: controlPie_l
+    400034: controlPie_r
+    400036: cuello
+    400038: espalda1
+    400040: espalda2
+    400042: espalda3
+    400044: garras_y_dientes_oso
+    400046: mandibulaInferior
+    400048: mandibulaSuperior1
+    400050: mandibulaSuperior2
+    400052: mano_l
+    400054: mano_r
+    400056: muslo1_l
+    400058: muslo1_r
+    400060: muslo2_l
+    400062: muslo2_r
+    400064: oreja1_l
+    400066: oreja1_r
+    400068: oreja_l
+    400070: oreja_r
+    400072: //RootNode
+    400074: oso
+    400076: pie_l
+    400078: pie_r
+    400080: rodilla_l
+    400082: rodilla_r
+    400084: talonMano_l
+    400086: talonMano_r
+    400088: talonpie_l
+    400090: talonpie_r
+    4300000: garras_y_dientes_oso
+    4300002: oso
+    7400000: Default Take
+    7400002: atacar
+    7400004: atacar2
+    7400006: idle
+    7400008: morir
+    7400010: reset
+    9500000: //RootNode
+    13700000: garras_y_dientes_oso
+    13700002: oso
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
