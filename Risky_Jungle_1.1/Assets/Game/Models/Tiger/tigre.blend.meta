@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 52aae4634ea9711479330c77d459eb05
+timeCreated: 1471226029
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: antebrazo_l
+    100002: antebrazo_r
+    100004: arm_tigre
+    100006: base
+    100008: brazo_l
+    100010: brazo_r
+    100012: cabeza
+    100014: cadera
+    100016: canilla_l
+    100018: canilla_r
+    100020: cintura
+    100022: codo_l
+    100024: codo_r
+    100026: cola1
+    100028: cola1_001
+    100030: cola1_002
+    100032: cola1_003
+    100034: controlMano_l
+    100036: controlMano_r
+    100038: controlPie_l
+    100040: controlPie_r
+    100042: cuello
+    100044: espalda1
+    100046: espalda2
+    100048: espalda3
+    100050: mandibulaInferior
+    100052: mandibulaSuperior1
+    100054: mandibulaSuperior2
+    100056: mano_l
+    100058: mano_r
+    100060: muslo1_l
+    100062: muslo1_r
+    100064: muslo2_l
+    100066: muslo2_r
+    100068: oreja1_l
+    100070: oreja1_r
+    100072: oreja_l
+    100074: oreja_r
+    100076: pie_l
+    100078: pie_r
+    100080: rodilla_l
+    100082: rodilla_r
+    100084: talonMano_l
+    100086: talonMano_r
+    100088: talonpie_l
+    100090: talonpie_r
+    100092: //RootNode
+    100094: tigre
+    100096: u_as_tigre
+    400000: antebrazo_l
+    400002: antebrazo_r
+    400004: arm_tigre
+    400006: base
+    400008: brazo_l
+    400010: brazo_r
+    400012: cabeza
+    400014: cadera
+    400016: canilla_l
+    400018: canilla_r
+    400020: cintura
+    400022: codo_l
+    400024: codo_r
+    400026: cola1
+    400028: cola1_001
+    400030: cola1_002
+    400032: cola1_003
+    400034: controlMano_l
+    400036: controlMano_r
+    400038: controlPie_l
+    400040: controlPie_r
+    400042: cuello
+    400044: espalda1
+    400046: espalda2
+    400048: espalda3
+    400050: mandibulaInferior
+    400052: mandibulaSuperior1
+    400054: mandibulaSuperior2
+    400056: mano_l
+    400058: mano_r
+    400060: muslo1_l
+    400062: muslo1_r
+    400064: muslo2_l
+    400066: muslo2_r
+    400068: oreja1_l
+    400070: oreja1_r
+    400072: oreja_l
+    400074: oreja_r
+    400076: pie_l
+    400078: pie_r
+    400080: rodilla_l
+    400082: rodilla_r
+    400084: talonMano_l
+    400086: talonMano_r
+    400088: talonpie_l
+    400090: talonpie_r
+    400092: //RootNode
+    400094: tigre
+    400096: u_as_tigre
+    4300000: u_as_tigre
+    4300002: tigre
+    7400000: Default Take
+    7400002: atacar
+    7400004: idle
+    7400006: morir
+    7400008: reset
+    9500000: //RootNode
+    13700000: tigre
+    13700002: u_as_tigre
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

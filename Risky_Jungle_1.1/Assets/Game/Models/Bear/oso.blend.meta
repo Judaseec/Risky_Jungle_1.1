@@ -127,7 +127,715 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_oso
+        weight: 1
+      - path: arm_oso/base
+        weight: 1
+      - path: arm_oso/base/cintura
+        weight: 1
+      - path: arm_oso/base/cintura/cadera
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/cola1
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l/canilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r/canilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l/antebrazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r/antebrazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaInferior
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1/mandibulaSuperior2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_r
+        weight: 1
+      - path: arm_oso/base/controlMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l/talonMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r/talonMano_r
+        weight: 1
+      - path: arm_oso/base/controlPie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l/talonpie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r/talonpie_r
+        weight: 1
+      - path: garras_y_dientes_oso
+        weight: 1
+      - path: oso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: atacar
+      takeName: atacar
+      firstFrame: -1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_oso
+        weight: 1
+      - path: arm_oso/base
+        weight: 1
+      - path: arm_oso/base/cintura
+        weight: 1
+      - path: arm_oso/base/cintura/cadera
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/cola1
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l/canilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r/canilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l/antebrazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r/antebrazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaInferior
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1/mandibulaSuperior2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_r
+        weight: 1
+      - path: arm_oso/base/controlMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l/talonMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r/talonMano_r
+        weight: 1
+      - path: arm_oso/base/controlPie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l/talonpie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r/talonpie_r
+        weight: 1
+      - path: garras_y_dientes_oso
+        weight: 1
+      - path: oso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: atacar2
+      takeName: atacar2
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_oso
+        weight: 1
+      - path: arm_oso/base
+        weight: 1
+      - path: arm_oso/base/cintura
+        weight: 1
+      - path: arm_oso/base/cintura/cadera
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/cola1
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l/canilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r/canilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l/antebrazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r/antebrazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaInferior
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1/mandibulaSuperior2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_r
+        weight: 1
+      - path: arm_oso/base/controlMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l/talonMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r/talonMano_r
+        weight: 1
+      - path: arm_oso/base/controlPie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l/talonpie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r/talonpie_r
+        weight: 1
+      - path: garras_y_dientes_oso
+        weight: 1
+      - path: oso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_oso
+        weight: 1
+      - path: arm_oso/base
+        weight: 1
+      - path: arm_oso/base/cintura
+        weight: 1
+      - path: arm_oso/base/cintura/cadera
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/cola1
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l/canilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r/canilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l/antebrazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r/antebrazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaInferior
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1/mandibulaSuperior2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_r
+        weight: 1
+      - path: arm_oso/base/controlMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l/talonMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r/talonMano_r
+        weight: 1
+      - path: arm_oso/base/controlPie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l/talonpie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r/talonpie_r
+        weight: 1
+      - path: garras_y_dientes_oso
+        weight: 1
+      - path: oso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: morir
+      takeName: morir
+      firstFrame: -1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_oso
+        weight: 1
+      - path: arm_oso/base
+        weight: 1
+      - path: arm_oso/base/cintura
+        weight: 1
+      - path: arm_oso/base/cintura/cadera
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/cola1
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l/canilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r/canilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l/antebrazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r/antebrazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaInferior
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1/mandibulaSuperior2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_r
+        weight: 1
+      - path: arm_oso/base/controlMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l/talonMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r/talonMano_r
+        weight: 1
+      - path: arm_oso/base/controlPie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l/talonpie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r/talonpie_r
+        weight: 1
+      - path: garras_y_dientes_oso
+        weight: 1
+      - path: oso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: reset
+      takeName: reset
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_oso
+        weight: 1
+      - path: arm_oso/base
+        weight: 1
+      - path: arm_oso/base/cintura
+        weight: 1
+      - path: arm_oso/base/cintura/cadera
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/cola1
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_l/muslo2_l/canilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/muslo1_r/muslo2_r/canilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_l
+        weight: 1
+      - path: arm_oso/base/cintura/cadera/rodilla_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_l/antebrazo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/brazo_r/antebrazo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/codo_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaInferior
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/mandibulaSuperior1/mandibulaSuperior2
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja1_r
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_l
+        weight: 1
+      - path: arm_oso/base/cintura/espalda1/espalda2/espalda3/cuello/cabeza/oreja_r
+        weight: 1
+      - path: arm_oso/base/controlMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_l/mano_l/talonMano_l
+        weight: 1
+      - path: arm_oso/base/controlMano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r
+        weight: 1
+      - path: arm_oso/base/controlMano_r/mano_r/talonMano_r
+        weight: 1
+      - path: arm_oso/base/controlPie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_l/pie_l/talonpie_l
+        weight: 1
+      - path: arm_oso/base/controlPie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r
+        weight: 1
+      - path: arm_oso/base/controlPie_r/pie_r/talonpie_r
+        weight: 1
+      - path: garras_y_dientes_oso
+        weight: 1
+      - path: oso
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
